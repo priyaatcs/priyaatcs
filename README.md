@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyaatcs 
+- 👋 Hi, I’m @aditya
 - 👀 I’m interested in obs plugins development 
 - 💞️ I’m looking to collaborate on the same
 - 📫 How to reach me WA 9078146574
